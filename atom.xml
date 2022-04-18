@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nkuzyz.github.io</id>
     <title>zyzstc</title>
-    <updated>2022-04-18T13:27:21.663Z</updated>
+    <updated>2022-04-18T13:32:34.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nkuzyz.github.io"/>
     <link rel="self" href="https://nkuzyz.github.io/atom.xml"/>
-    <subtitle>老子必能学会java</subtitle>
+    <subtitle>老子今天真的很棒</subtitle>
     <logo>https://nkuzyz.github.io/images/avatar.png</logo>
     <icon>https://nkuzyz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, zyzstc</rights>
