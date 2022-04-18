@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nkuzyz.github.io</id>
     <title>zyzstc</title>
-    <updated>2022-04-18T12:33:20.137Z</updated>
+    <updated>2022-04-18T13:27:21.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nkuzyz.github.io"/>
     <link rel="self" href="https://nkuzyz.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://nkuzyz.github.io/images/avatar.png</logo>
     <icon>https://nkuzyz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, zyzstc</rights>
+    <entry>
+        <title type="html"><![CDATA[2022/4/18 成功部署了两个自己的域名]]></title>
+        <id>https://nkuzyz.github.io/post/2022418-cheng-gong-bu-shu-liao-liang-ge-zi-ji-de-yu-ming/</id>
+        <link href="https://nkuzyz.github.io/post/2022418-cheng-gong-bu-shu-liao-liang-ge-zi-ji-de-yu-ming/">
+        </link>
+        <updated>2022-04-18T13:22:26.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>😙😗😙😗😚😚😚😘</p>
+<figure data-type="image" tabindex="1"><img src="https://nkuzyz.github.io/post-images/1650288296818.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<p>啦啦啦啦啦</p>
+<!-- more -->
+<p>但是我没有好好上课呜呜呜</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome...]]></title>
         <id>https://nkuzyz.github.io/post/welcome/</id>
